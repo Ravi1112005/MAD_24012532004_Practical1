@@ -5,6 +5,7 @@ Int, Double, Float, Long, Short, Byte, Char, Boolean, String.
 
 Displays them using println().
 <img width="858" height="338" alt="image" src="https://github.com/user-attachments/assets/baec6a55-9dda-49c9-b47a-bb0a922be06b" />
+
 Concepts Covered: Variables, Data Types, Printing Output.
 
 1.2 Type Conversion
@@ -29,6 +30,7 @@ Concepts Covered: Input Handling, String Templates.
 1.4 Odd or Even Number Check
 Accepts a number and determines whether it is odd or even.
 Uses control flow inside println().
+
 <img width="435" height="149" alt="image" src="https://github.com/user-attachments/assets/1596adb7-918f-40ba-8ad2-6019a4a1fa62" />
 
 Concepts Covered: Conditional Expressions, Inline Checks.
@@ -87,6 +89,7 @@ Implements functions to:
 Get car information.
 Get original price and current price.
 Display details.
+
 <img width="471" height="308" alt="image" src="https://github.com/user-attachments/assets/544c25ee-e4a0-4239-89b7-2dbb2e8be5d4" />
 
 Concepts Covered: Classes, Primary & Secondary Constructors, Member Functions, Encapsulation.
@@ -98,6 +101,7 @@ Addition (+)
 Subtraction (-)
 Multiplication (*)
 Overloads toString() for custom display of matrix contents.
+
 <img width="440" height="607" alt="image" src="https://github.com/user-attachments/assets/67c1a01c-bfa1-4962-9a21-7ee1f5080933" />
 <img width="449" height="383" alt="image" src="https://github.com/user-attachments/assets/adcd834d-983f-4a03-8041-d2ad583c814a" />
 
