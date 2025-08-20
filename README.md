@@ -70,6 +70,7 @@ Uses loop ranges (.., downTo, until) for traversal.
 Sorts an array:
 Without built-in functions (manual sorting).
 With built-in functions (sortedArray()).
+
 <img width="588" height="751" alt="image" src="https://github.com/user-attachments/assets/cab3bf90-74d2-4779-8c59-f3b8907d2905" />
 <img width="573" height="414" alt="image" src="https://github.com/user-attachments/assets/5a88b444-fd53-405e-84ca-e6f9b686d37c" />
 
